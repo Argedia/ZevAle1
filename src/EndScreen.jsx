@@ -39,7 +39,7 @@ export default function EndScreen({ imageUrl, title, message }) {
         <img
           src="letter.jpg" // ← Asegúrate de tener esta imagen en /public
           alt="Carta de amor"
-          className="w-80 md:w-76 h-auto mb-6 shadow-xl rounded-lg"
+          className="w-[450px] md:w-[600px] h-auto mb-6 shadow-xl rounded-lg"
         />
         <h1 className="text-6xl md:text-8xl font-extrabold drop-shadow-lg mb-6 select-none">
           {title}
