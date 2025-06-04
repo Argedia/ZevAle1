@@ -28,7 +28,7 @@ export default function App() {
   if (showEndScreen) {
     return (
       <EndScreen
-        imageUrl="/photo.jpg"
+        imageUrl="photo.jpg"
         title="Feliz día"
         message="Juntos para siempre, cada día es un nuevo comienzo."
       />

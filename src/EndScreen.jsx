@@ -37,7 +37,7 @@ export default function EndScreen({ imageUrl, title, message }) {
       <div className="relative z-10 p-10 text-center text-white max-w-3xl mx-auto flex flex-col items-center">
         {/* Imagen de la carta tipo "letter" */}
         <img
-          src="/letter.jpg" // ← Asegúrate de tener esta imagen en /public
+          src="letter.jpg" // ← Asegúrate de tener esta imagen en /public
           alt="Carta de amor"
           className="w-80 md:w-76 h-auto mb-6 shadow-xl rounded-lg"
         />
