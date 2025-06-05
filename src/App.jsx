@@ -29,7 +29,7 @@ export default function App() {
     return (
       <EndScreen
         imageUrl="photo.jpg"
-        title="Feliz día"
+        title="Feliz 6 meses"
         message="Juntos para siempre, cada día es un nuevo comienzo."
       />
     )
